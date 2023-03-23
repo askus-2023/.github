@@ -1,11 +1,12 @@
-# :bowtie: Kookle
+# :cookie: Kookle
 
 ## :books: 목차
 
-- [:bowtie: Kookle](#bowtie-Kookle)
+- [:cookie: Kookle](#cookie-Kookle)
   - [:books: 목차](#books-목차)
     - [:tada: 소개](#tada-소개)
     - [:rocket: 프로젝트](#rocket-프로젝트)
+    - [:clipboard: 문서](#clipboard-문서)
 
 ### :tada: 소개
 
@@ -38,3 +39,7 @@
         </td>
     </tr>     
 </table>
+
+### :clipboard: 문서
+
+자세한 문서(회의록, API 설계서, ERD 설계서, 와이어프레임)는 [여기](https://hgene.notion.site/cookle-dc4b81479b0e4012a58c8ae8158e878c)를 참고해주세요.

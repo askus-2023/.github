@@ -28,8 +28,14 @@
         <td> 2023. 03. 10 - 2023. 05. 30(예상) </td>
         <td> Web </td>
         <td> 1.0 </td>
-        <td> 
-        Backend: Java Spring-boot Spring-Security Spring-data-jpa querydsl Mysql AWS-S3
+        <td>
+        <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
+        <img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=MySQL&logoColor=##4479A1">
+        <img src="https://img.shields.io/badge/Amazon S3-444444?style=for-the-badge&logo=Amazon S3&logoColor=###569A31">
         </td>
         <td>
             <a href="https://github.com/1Bronze"> 백엔드 김한동 </a> </br>

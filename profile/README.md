@@ -1,8 +1,8 @@
-# :cookie: Kookle
+# :cookie: Cookle
 
 ## :books: 목차
 
-- [:cookie: Kookle](#cookie-Kookle)
+- [:cookie: Kookle](#cookie-Cookle)
   - [:books: 목차](#books-목차)
     - [:tada: 소개](#tada-소개)
     - [:rocket: 프로젝트](#rocket-프로젝트)

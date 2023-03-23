@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td> <a href=""> Kookle </a> </td>
-        <td> 2023. 03. 10 - 2023. 05. 30(예상) </td>
+        <td width="170px"> 2023. 03. 10 - </br>2023. 05. 30(예상) </td>
         <td> Web </td>
         <td> 1.0 </td>
         <td>
@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=MySQL&logoColor=##4479A1">
         <img src="https://img.shields.io/badge/Amazon S3-444444?style=for-the-badge&logo=Amazon S3&logoColor=###569A31">
         </td>
-        <td>
+        <td width="150px">
             <a href="https://github.com/1Bronze"> 백엔드 김한동 </a> </br>
             <a href="https://github.com/hgene0929"> 백엔드 이현진 </a> </br>
             <a href="https://github.com/dlsdo1101"> 프론트엔드 김인애 </a> </br>

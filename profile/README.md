@@ -40,6 +40,7 @@
         <img src="https://img.shields.io/badge/Amazon CodeDeploy-444444?style=for-the-badge&logo=Amazon CodeDeploy&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=openai&logoColor=#412991">
         </td>
         <td width="150px">
             <a href="https://github.com/1Bronze"> 백엔드 김한동 </a> </br>

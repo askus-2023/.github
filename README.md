@@ -29,7 +29,10 @@
         <td> Web </td>
         <td> 1.0 </td>
         <td> 
-        Backend: Java Spring-boot Spring-Security Spring-data-jpa querydsl Mysql AWS-S3
+          Backend: Java Spring-boot Spring-Security Spring-data-jpa querydsl Mysql AWS-S3
+          <br />
+          <br />
+          Frontend: React Vite React-Query ESLint Recoil
         </td>
         <td>
             <a href="https://github.com/1Bronze"> 백엔드 김한동 </a> </br>

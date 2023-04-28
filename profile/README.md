@@ -41,6 +41,11 @@
         <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/openai-444444?style=for-the-badge&logo=openai&logoColor=#412991">
+        <br />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
         </td>
         <td width="150px">
             <a href="https://github.com/1Bronze"> 백엔드 김한동 </a> </br>

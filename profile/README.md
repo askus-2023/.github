@@ -59,4 +59,4 @@
 ### :clipboard: 문서
 
 자세한 문서(회의록, API 설계서, ERD 설계서, 와이어프레임)는 [여기](https://hgene.notion.site/cookle-dc4b81479b0e4012a58c8ae8158e878c)를 참고해주세요.<br>
-이외에도 백엔드 관련 정리는 [여기](./cookle_backend/README.md), API 문서는 [여기](http://13.124.76.165:8080/swagger-ui/index.html#/)를 참고해주세요.
+이외에도 백엔드 관련 정리는 [여기](https://github.com/askus-2023/cookle_backend#readme), API 문서는 [여기](http://13.124.76.165:8080/swagger-ui/index.html#/)를 참고해주세요.

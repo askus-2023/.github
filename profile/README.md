@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td> <a href=""> Cookle </a> </td>
-        <td width="170px"> 2023. 03. 10 - </br>2023. 05. 30(예상) </td>
+        <td width="170px"> 2023. 03. 10 - </br>2023. 05. 15 </td>
         <td> Web </td>
         <td> 1.0 </td>
         <td>

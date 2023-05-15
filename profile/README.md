@@ -85,9 +85,10 @@
 - 다른 사람의 게시글에 댓글을 달고, 좋아요를 누를 수 있습니다(수정,삭제 기능 포함).
 - 자신이 좋아요를 누른 게시글을 모아 볼 수 있습니다.
 - 자신이 작성한 게시글을 모아 볼 수 있습니다.<br><br>
+![기타3](https://github.com/askus-2023/.github/assets/90823532/2cb4ef3f-7f58-4337-bfe0-dcf534ff4f12)
 ![기타2](https://github.com/askus-2023/.github/assets/90823532/a88092bc-ff59-493d-9d20-2e1150d77b5e)
 
-
+<br>
 #### 4. 챗봇 기능<br>
 - gpt-3.5 모델 기반의 openai api를 연동하여 레시피를 물어보고 답변을 받을 수 있는 챗봇 서비스를 이용하실 수 있습니다.<br><br>
 ![챗봇기능](https://github.com/askus-2023/.github/assets/90823532/d1b51c2d-aa8b-430e-9d5d-1a48ee2a73b9)

@@ -80,8 +80,9 @@
 - 상세조회를 통해 게시글의 상세조회 페이지에 접근할 수 있습니다.
 - 전체 게시물은 최신순, 좋아요순으로 정렬할 수 있습니다.<br><br>
 ![게시글1](https://github.com/askus-2023/.github/assets/90823532/8e35fb73-06c8-4d39-b862-5428404bedd2)
+![게시글2](https://github.com/askus-2023/.github/assets/90823532/ef01ea33-134e-4562-b75d-7df5d3ad9815)
 
-
+<br>
 #### 3. 기타 기능<br>
 - 다른 사람의 게시글에 댓글을 달고, 좋아요를 누를 수 있습니다(수정,삭제 기능 포함).
 - 자신이 좋아요를 누른 게시글을 모아 볼 수 있습니다.
@@ -92,4 +93,4 @@
 <br>
 #### 4. 챗봇 기능<br>
 - gpt-3.5 모델 기반의 openai api를 연동하여 레시피를 물어보고 답변을 받을 수 있는 챗봇 서비스를 이용하실 수 있습니다.<br><br>
-![챗봇기능](https://github.com/askus-2023/.github/assets/90823532/d1b51c2d-aa8b-430e-9d5d-1a48ee2a73b9)
+![챗봇기능](htt![11](https://github.com/askus-2023/.github/assets/90823532/6e60d61a-2cca-4629-9ab1-e9f3a94b8df4)

@@ -71,6 +71,10 @@
 - 회원가입을 한 후, 로그인을 통해 cookle 서비스를 이용할 수 있습니다.
 - 프로필 수정 및 비밀번호 수정이 가능합니다.
 - 내 프로필 페이지에서 자신의 프로필 내용을 확인할 수 있습니다.<br><br>
+![회원1](https://github.com/askus-2023/.github/assets/90823532/32c5da15-0b0e-4364-9864-ca2ece191979)
+![회원2](https://github.com/askus-2023/.github/assets/90823532/9f51d267-2d85-4b16-b432-e8c3ca386e2c)
+
+<br>
 
 #### 2. 게시글 기능<br>
 - 챗봇이 추천해준 레시피를 토대로 요리해 터득한 자신만의 레시피를 공유하는 게시글을 작성, 수정, 삭제할 수 있습니다.
@@ -83,6 +87,7 @@
 ![게시글2](https://github.com/askus-2023/.github/assets/90823532/ef01ea33-134e-4562-b75d-7df5d3ad9815)
 
 <br>
+
 #### 3. 기타 기능<br>
 - 다른 사람의 게시글에 댓글을 달고, 좋아요를 누를 수 있습니다(수정,삭제 기능 포함).
 - 자신이 좋아요를 누른 게시글을 모아 볼 수 있습니다.
@@ -91,6 +96,7 @@
 ![기타기능2](https://github.com/askus-2023/.github/assets/90823532/a88092bc-ff59-493d-9d20-2e1150d77b5e)
 
 <br>
+
 #### 4. 챗봇 기능<br>
 - gpt-3.5 모델 기반의 openai api를 연동하여 레시피를 물어보고 답변을 받을 수 있는 챗봇 서비스를 이용하실 수 있습니다.<br><br>
-![챗봇기능](htt![11](https://github.com/askus-2023/.github/assets/90823532/6e60d61a-2cca-4629-9ab1-e9f3a94b8df4)
+![챗봇](htt![11](https://github.com/askus-2023/.github/assets/90823532/6e60d61a-2cca-4629-9ab1-e9f3a94b8df4)

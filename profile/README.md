@@ -85,8 +85,8 @@
 - 다른 사람의 게시글에 댓글을 달고, 좋아요를 누를 수 있습니다(수정,삭제 기능 포함).
 - 자신이 좋아요를 누른 게시글을 모아 볼 수 있습니다.
 - 자신이 작성한 게시글을 모아 볼 수 있습니다.<br><br>
-![기타3](https://github.com/askus-2023/.github/assets/90823532/2cb4ef3f-7f58-4337-bfe0-dcf534ff4f12)
-![기타2](https://github.com/askus-2023/.github/assets/90823532/a88092bc-ff59-493d-9d20-2e1150d77b5e)
+![기타기능1](https://github.com/askus-2023/.github/assets/90823532/2cb4ef3f-7f58-4337-bfe0-dcf534ff4f12)
+![기타기능2](https://github.com/askus-2023/.github/assets/90823532/a88092bc-ff59-493d-9d20-2e1150d77b5e)
 
 <br>
 #### 4. 챗봇 기능<br>
